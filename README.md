@@ -1,64 +1,22 @@
-### Hi there 👋
+## 技术栈 Github 统计
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=captain5&show_icons=true">
 
-2
+Python
 
-
-
-3
-
-<!--
-
-4
-
-**Asthestarsfalll/Asthestarsfalll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-5
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
 
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=Vue.js)
+![Node](https://img.shields.io/badge/-NodeJS-%23F05032?style=for-the-badge&logo=Node.js&logoColor=%23ffffff)
+![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=for-the-badge&logo=webpack)
 
-6
+## 博客
 
-Here are some ideas to get you started:
+https://asthestarsfalll.icu/
 
-7
-
-
-
-8
-
-- 🔭 I’m currently working on ...
-
-9
-
-- 🌱 I’m currently learning ...
-
-10
-
-- 👯 I’m looking to collaborate on ...
-
-11
-
-- 🤔 I’m looking for help with ...
-
-12
-
-- 💬 Ask me about ...
-
-13
-
-- 📫 How to reach me: ...
-
-14
-
-- 😄 Pronouns: ...
-
-15
-
-- ⚡ Fun fact: ...
-
-16
-
--->
-
-17
-
+<!-- 访客 -->
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=captain5.captain5" alt="visitor badge"/>
+</p>
