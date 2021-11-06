@@ -23,7 +23,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AsTheStarsFalll&theme=nord&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-**May we have a fine day full of breeze and sunshine~**
 <!--
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 **AsTheStarsFalll/AsTheStarsFalll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
